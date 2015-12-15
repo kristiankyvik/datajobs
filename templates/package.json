@@ -13,6 +13,7 @@
     "babel-preset-es2015": "^6.1.18",
     "babel-preset-react": "^6.1.18",
     "jquery": "^2.1.4",
+    "moment": "^2.10.6",
     "react": "^0.14.3",
     "react-dom": "^0.14.3"
   },
